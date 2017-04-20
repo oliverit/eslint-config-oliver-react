@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-oliver-react",
+  "version": "1.0.0",
+  "description": "Oliver JavaScript Style - React - ESLint Shareable Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "files": [
+    "index.js",
+    "eslintrc.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverit/eslint-config-oliver-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "oliver"
+  ],
+  "author": "René van Mil <rene.van.mil@oliver-it.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliverit/eslint-config-oliver-react/issues"
+  },
+  "homepage": "https://github.com/oliverit/eslint-config-oliver-react#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "peerDependencies": {
+    "babel-eslint": ">=7.2.2",
+    "eslint": ">=3.19.0",
+    "eslint-config-oliver-base": "^1.0.0",
+    "eslint-plugin-flowtype": ">=2.32.1",
+    "eslint-plugin-react": ">=6.10.3"
+  }
+}
