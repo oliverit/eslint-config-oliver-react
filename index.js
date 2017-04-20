@@ -1,3 +1,7 @@
 module.exports = Object.assign({}, require('./eslintrc.json'), {
-	extends: [require.resolve('eslint-config-oliver-base')]
+	extends: [
+		require.resolve('eslint-config-oliver-base'),
+		'plugin:react/recommended',
+		'plugin:flowtype/recommended'
+	]
 })
