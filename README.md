@@ -16,7 +16,7 @@ npm i --save-dev eslint-config-oliver-react
 ### Install the required dependencies
 
 ```
-npm i --save-dev babel-eslint eslint eslint-config-airbnb-base eslint-config-oliver-base eslint-plugin-flowtype eslint-plugin-import eslint-plugin-react
+npm i --save-dev babel-eslint eslint eslint-config-airbnb-base eslint-config-oliver-base eslint-plugin-import eslint-plugin-react
 ```
 
 

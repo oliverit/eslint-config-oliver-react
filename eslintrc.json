@@ -1,12 +1,10 @@
 {
   "extends": [
     "oliver-base",
-    "plugin:react/recommended",
-    "plugin:flowtype/recommended"
+    "plugin:react/recommended"
   ],
   "plugins": [
-    "react",
-    "flowtype"
+    "react"
   ],
   "parser": "babel-eslint",
   "env": {
