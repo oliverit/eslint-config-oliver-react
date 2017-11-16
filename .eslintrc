@@ -8,6 +8,10 @@
   ],
   "parser": "babel-eslint",
   "env": {
-    "browser": "true",
+    "browser": "true"
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": "off",
+    "no-console": "off"
   }
 }
