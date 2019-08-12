@@ -1,6 +1,9 @@
-module.exports = Object.assign({}, require('./eslintrc.json'), {
+const eslintrc = require('./eslintrc.json')
+
+module.exports = {
+	...eslintrc,
 	extends: [
 		require.resolve('eslint-config-oliver-base'),
 		'plugin:react/recommended'
 	]
-})
+}
