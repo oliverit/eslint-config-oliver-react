@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-oliver-react",
-  "version": "9.1.2",
+  "version": "10.0.0",
   "description": "Oliver JavaScript Style - React - ESLint Shareable Config",
   "main": "index.js",
   "scripts": {
