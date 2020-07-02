@@ -29,8 +29,8 @@
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-oliver-base": "^8.0.1",
     "eslint-plugin-import": "^2.22.0",
-    "eslint-plugin-react": "^7.20.1",
-    "eslint-plugin-react-hooks": "^4.0.4",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.5",
     "react": "^16.13.1"
   },
   "peerDependencies": {
@@ -39,8 +39,8 @@
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-oliver-base": "^8.0.1",
     "eslint-plugin-import": "^2.22.0",
-    "eslint-plugin-react": "^7.20.1",
-    "eslint-plugin-react-hooks": "^4.0.4"
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.5"
   },
   "dependencies": {
     "confusing-browser-globals": "^1.0.9"
